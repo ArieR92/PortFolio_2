@@ -4757,6 +4757,9 @@ ul.info-list li .d_title {
 }
 
 #porcentaje {
+    opacity: 0.3;
+    font-size: 20px;
+
 
 }
 

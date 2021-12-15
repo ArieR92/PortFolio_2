@@ -4735,7 +4735,7 @@ ul.info-list li .d_title {
 
 .de-progress {
     width: 100%;
-    height: 10px;
+    height: 15px;
     background: rgba(0, 0, 0, .1);
     margin-top: 20px;
     margin-bottom: 20px;
@@ -4743,6 +4743,7 @@ ul.info-list li .d_title {
     border-radius: 3px;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
+    border-radius: 10px;
 }
 
 .dark .de-progress{
@@ -4751,8 +4752,12 @@ ul.info-list li .d_title {
 
 .de-progress .progress-bar {
     background: #333;
-    height: 10px;
-    box-shadow: none
+    height: 25px;
+    box-shadow: none;
+}
+
+#porcentaje {
+
 }
 
 #skills {

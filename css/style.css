@@ -74,16 +74,6 @@ header {
 
 }
 
-.video-container{
-    position: relative;
-}
-
-.fa-play{
-    position: absolute;
-    top: 70px;
-    font-size: 80px;
-
-}
 
 header.smaller.has-topbar {
     height: 105px
